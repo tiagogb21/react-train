@@ -68,7 +68,7 @@ Push para a branch (git push origin feature/nova-feature)
 
 Abra um pull request
 
-Licença
+## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
