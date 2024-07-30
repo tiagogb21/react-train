@@ -15,6 +15,7 @@ Este é um aplicativo de To-Do List desenvolvido com React, TypeScript e Tailwin
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
+- [Vite](https://vitejs.dev/)
 
 ## Instalação
 
